@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ItsTrin
-- 👀 I’m interested in Programing and more
+- 👀 I’m interested in School (Programming), Gaming and investment
 - 🌱 I’m currently learning in school
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: michel@mesot.net
