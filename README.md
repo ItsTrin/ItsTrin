@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ItsTrin
 - 👀 I’m interested in School (Programming), Gaming and investment
-- 🌱 I’m currently learning in school
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently a student
 - 📫 How to reach me: michel@mesot.net
 
 <!---
